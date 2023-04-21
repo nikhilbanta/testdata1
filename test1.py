@@ -4,4 +4,5 @@ b = []
 for i in a:
     out = i*i
     b.append(out)
-print(b)
+print("Number list:",a)
+print("Square List:",b)
